@@ -3,8 +3,8 @@
 By using this project, you can automatically convert all your points into lottery tickets or other prizes offered by Snapp company.
 
 ## Demo
-https://www.instagram.com/p/CtmelffRAHX/
-[![Play Video](https://s5.uupload.ir/files/alirem/برنامه%20نویسی%20برای%20اسنپ%20🗿سورس%20کد%20و%20اینارو%20هم%20توی%20تلگرام%20گذاشتم%20براتون%20هم%20توی%20گیت%20هابتلگرام%20-http.mp4?play)
+[![Play Video](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://s5.uupload.ir/files/alirem/برنامه%20نویسی%20برای%20اسنپ%20🗿سورس%20کد%20و%20اینارو%20هم%20توی%20تلگرام%20گذاشتم%20براتون%20هم%20توی%20گیت%20هابتلگرام%20-http.mp4?play)
+
 
 ## requirments
 
