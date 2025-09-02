@@ -4,7 +4,7 @@ By using this project, you can automatically convert all your points into lotter
 
 ## Demo
 https://www.instagram.com/p/CtmelffRAHX/
-[![Play Video](https://s5.uupload.ir/files/alirem/برنامه%20نویسی%20برای%20اسنپ%20🗿سورس%20کد%20و%20اینارو%20هم%20توی%20تلگرام%20گذاشتم%20براتون%20هم%20توی%20گیت%20هابتلگرام%20-http.mp4)
+[![Play Video](https://s5.uupload.ir/files/alirem/برنامه%20نویسی%20برای%20اسنپ%20🗿سورس%20کد%20و%20اینارو%20هم%20توی%20تلگرام%20گذاشتم%20براتون%20هم%20توی%20گیت%20هابتلگرام%20-http.mp4?play)
 
 ## requirments
 
